@@ -1,14 +1,5 @@
 ### Hello everyone.
 My name is Roman.
-In general, I am a creative person, but with a certain analytical mindset, and even I treated creativity with analytics and mathematics...
-
-I worked for 8 years in an Internet company (provider), for the first few years I was just an installer who crawls through attics and basements, connecting subscribers, then I began to delve into the network construction scheme, routes, after a while I started working on routers, checked the relevance of settings and firmware switches on houses via telnet...I drew connection diagrams (logic puzzles) and I really liked all this, my tasks and place in the company changed pretty quickly, it was much more interesting and promising than messing with cables and I did it and liked it, but I decided to try myself in what my hobby led me to... at the same time, from the age of 16, I fell in love with photography (automotive) and it was my hobby, which eventually turned into work, first I took pictures of friends' cars, then tuning salons, but the goal was to shoot advertising for manufacturers and dealers...
-
-For the last few years I have been an operator in the UltraArm system (Russian Arm) - a shooting car with a crane on which the camera hangs. I shot movies, music videos, and of course car advertising... in particular, he collaborated a lot and shot for Yandex Drive. Sviridova's clip - Pink Flamingo (I'm even there in the credits) :) A huge number of TV series and movies (mainly chase scenes) and even more car advertising for TV. At some point I decided that it was all great, but as a hobby, let it remain a hobby, and I want to associate my work with mental work.
-
-At the moment I am studying under the Python Developer program (backend development) at Yandex Practicum.
-I wrote a social network using the Django framework (publishing posts, comments, subscriptions, likes, tracking subscriptions, notifications, etc.). I wrote a telegram bot to control devices in the smart home system via the telegram messenger.
-I am a very fast learner, I like what I do and I really hope to find a good team here with whom I can grow, develop and benefit.
 
 📋 Languages
 -----
